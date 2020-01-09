@@ -35,10 +35,10 @@ Epic | 博物馆App |
 寻找博物馆当前人数较少的游览地点 | 地图定位API | 次重要 |
 
 ## App产品原型（最小可行性）
-![博物馆热力图](https://github.com/SunnyHe1999/API_ML_AI_Museum/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86%E7%83%AD%E5%8A%9B%E5%9B%BE.png)
+![博物馆热力图](https://github.com/SunnyHe1999/API_ML_AI_Museum/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86%E6%8E%A8%E8%8D%90%E8%B7%AF%E7%BA%BF.png)
 用户点进应用的首页即可查看博物馆当前的热力图，右上角会显示最后刷新时间供用户参考，当用户决定游览时点击生成推荐路线系统即会根据当前的热力图生成一条没那么多人游览的路线
 
-![博物馆识别](https://github.com/SunnyHe1999/API_ML_AI_Museum/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86%E8%AF%86%E5%88%AB.png)
+![博物馆识别](https://github.com/SunnyHe1999/API_ML_AI_Museum/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86%E5%B1%95%E5%93%81%E8%AF%86%E5%88%AB.png)
 用户使用拍照识别后可在手机上观看关于这件展品的简介，而不用再和别人一起围在那小小的简介牌前，要是觉得看手机也很累的话可以开启语音合成功能让手机读给用户听，用户只需要安心做自己的事就好
 
 ## 具体应用场景
